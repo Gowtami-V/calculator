@@ -44,5 +44,4 @@ if __name__ == "__main__":
     print("\nAdvanced operations:")
     print(f"2^3 = {calc.power(2, 3)}")
     print(f"√16 = {calc.square_root(16)}")
-    print(f"15% = {calc.percentage(15)}")
-    print(f"5! = {calc.factorial(5)}")
+   
